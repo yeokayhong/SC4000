@@ -1,2 +1,6 @@
-pandas
+albumentations
+transformers
 scikit-learn
+ipykernel
+pandas
+tqdm
